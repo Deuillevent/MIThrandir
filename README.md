@@ -6,8 +6,8 @@ Version 0.49.0 (experimental). Windows, PowerShell 7+, PowerCLI 13.3.
 License: MIT with the Commons Clause (see [LICENSE](LICENSE)).
 
 An AI agent that can write PowerCLI is useful, and dangerous when it drifts, misreads a request, or is
-manipulated by a prompt injection. MIThrandir sits between any MCP client and your vCenter servers. The agent
-writes ordinary PowerCLI (one line, pipelines included), and every line is checked before it runs.
+manipulated by a prompt injection. MIThrandir sits between any MCP client and your vCenter servers.
+The agent writes ordinary PowerCLI (one line, pipelines included), and every line is checked before it runs.
 
 What it does:
 
