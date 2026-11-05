@@ -1,0 +1,21 @@
+# Runtime data: never commit
+journal/
+inventory/
+vcenters/
+policies/
+_upd/
+_backup*/
+*.log
+
+# Credentials and secrets
+Credential-*.xml
+*.pfx
+*.key
+*.secret
+.env
+
+# Editor and OS files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
